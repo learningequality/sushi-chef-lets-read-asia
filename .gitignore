@@ -75,3 +75,5 @@ target/
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
+
+stats.csv
